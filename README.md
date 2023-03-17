@@ -1,4 +1,4 @@
-# Hi, I'm Easton. Welcome to my profile
+# Hi, I'm Easton. Welcome to my profile!
 
 **`Computer Programming Student`**
 

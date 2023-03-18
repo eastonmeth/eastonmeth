@@ -4,7 +4,7 @@
 
 ### **A Wee Bit About Myself 🙌**
 
-I am a grade 12 highschool student enrolled at Georgetown District Highscool 🏫 
+I am a grade 12 highschool student enrolled at Georgetown District Highschool 🏫 
 
 I am interested in and currently studying computer programming 👨‍💻 
 

@@ -1,12 +1,12 @@
-# Hi, I'm Easton. Welcome to my profile!
+# 💥 Easton Meth 💥
 
 **`Computer Programming Student`**
 
-### **A Wee Bit About Myself 🙌**
+### **A Wee Bit About Myself 🙋🏻‍♂️**
 
-I am a grade 12 highschool student enrolled at Georgetown District Highscool 🏫 
+I am a grade 12 highschool student enrolled at Georgetown District Highschool 🏫 
 
-I am interested in and currently studying computer programming 👨‍💻 
+I am currently studying software development and sharpening my skills in Javascript and ReactJS 👨‍💻 
 
 I am currently employed at Vehikl in a co-op position <img width="15px" style="padding: 0 2px" src="https://media.licdn.com/dms/image/C560BAQFsm9sDqatEQA/company-logo_200_200/0/1570212065705?e=2147483647&v=beta&t=OSudNg8pexXlO7IScYR0Y54fquI9EvUvBBDUjxlNg2I" /> 
 
@@ -14,9 +14,9 @@ Some of my hobbies/interests include:
 
 * Working out 💪
 * Listening to music 🎶
-* Making/playing music 🎤🎹
-* Going for walks 🏞️
-* Dressing nice 👔
+* Making/playing music 🎹
+* Dogs >>>>> Cats 🐶
+* Going to concerts 🎤
 
 ---
 

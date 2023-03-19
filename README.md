@@ -15,7 +15,7 @@ Some of my hobbies/interests include:
 * Working out 💪
 * Listening to music 🎶
 * Making/playing music 🎹
-* Dogs >>>>> Cats 🐶
+* Dogs 🐶 > Cats 🐱
 * Going to concerts 🎤
 
 ---

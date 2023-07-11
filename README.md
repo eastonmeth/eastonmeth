@@ -6,9 +6,7 @@
 
 I am a grade 12 highschool student enrolled at Georgetown District Highschool 🏫 
 
-I am currently studying software development and sharpening my skills in Javascript and ReactJS 👨‍💻 
-
-I am currently employed at Vehikl in a co-op position <img width="15px" style="padding: 0 2px" src="https://media.licdn.com/dms/image/C560BAQFsm9sDqatEQA/company-logo_200_200/0/1570212065705?e=2147483647&v=beta&t=OSudNg8pexXlO7IScYR0Y54fquI9EvUvBBDUjxlNg2I" /> 
+I am currently studying fullstack web development and sharpening my skills in Javascript, ReactJS and ExpressJS 👨‍💻 
 
 Some of my hobbies/interests include:
 

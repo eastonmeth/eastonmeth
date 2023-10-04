@@ -1,10 +1,10 @@
 # 💥 Easton Meth 💥
 
-**`Computer Programming Student`**
+**`Junior Web Developer`**
 
 ### **A Wee Bit About Myself 🙋🏻‍♂️**
 
-I am a grade 12 highschool student enrolled at Georgetown District Highschool 🏫
+I am an 18 year old junior web developer who is currently searching for employment 
 
 I am currently studying fullstack web development and sharpening my skills in ReactJS and Laravel 👨‍💻
 
@@ -13,8 +13,8 @@ Some of my hobbies/interests include:
 - Working out 💪
 - Listening to music 🎶
 - Making/playing music 🎹
-- Dogs 🐶 > Cats 🐱
 - Going to concerts 🎤
+- Dogs 🐶
 
 ---
 

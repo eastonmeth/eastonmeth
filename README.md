@@ -4,7 +4,7 @@
 
 ### **A Wee Bit About Myself 🙋🏻‍♂️**
 
-I am an 18 year old junior web developer who is currently searching for employment 
+I am an 18 year old junior web developer who is currently searching for employment 💼
 
 I am currently studying fullstack web development and sharpening my skills in ReactJS and Laravel 👨‍💻
 

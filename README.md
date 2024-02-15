@@ -40,6 +40,8 @@ Some of my hobbies/interests include:
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+---
+
 ### **GitHub Stats 📊**
 
 ![Easton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HumanRadical&show_icons=true&theme=great-gatsby)

@@ -4,11 +4,11 @@
 
 ### **A Wee Bit About Myself 🙋🏻‍♂️**
 
-I am an 18 year old junior web developer who is currently working for Givelify 💼
+I am an 18 year old junior web developer 👨‍💻💼
 
-I am currently studying fullstack web development and sharpening my skills in ReactJS and Laravel 👨‍💻
+I am currently working for Givelify as a full stack software engineering intern 👨‍💻
 
-Some of my hobbies/interests include:
+Some of my hobbies/interests outside of coding include:
 
 - Working out 💪
 - Listening to music 🎶

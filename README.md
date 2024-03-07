@@ -4,9 +4,9 @@
 
 ### **A Wee Bit About Myself 🙋🏻‍♂️**
 
-I am an 18 year old junior web developer 👨‍💻💼
+I am an 18 year old junior web developer 👨‍💻
 
-I am currently working for Givelify as a full stack software engineering intern 👨‍💻
+I am currently working for Givelify as a full stack software engineering intern 💼
 
 Some of my hobbies/interests outside of coding include:
 

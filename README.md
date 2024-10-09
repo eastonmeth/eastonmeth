@@ -45,6 +45,13 @@ Some of my hobbies/interests outside of coding include:
 
 ---
 
+### **Links 🔗**
+
+- Linkedin - [eastonmeth](https://www.linkedin.com/in/eastonmeth/)
+- X (formerly Twitter) - [eastonmeth)](https://x.com/eastonmeth)
+
+---
+
 ### **GitHub Stats 📊**
 
 ![Easton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eastonmeth&show_icons=true&theme=great-gatsby)

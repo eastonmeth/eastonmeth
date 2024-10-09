@@ -47,8 +47,8 @@ Some of my hobbies/interests outside of coding include:
 
 ### **Links 🔗**
 
-- Linkedin - [eastonmeth](https://www.linkedin.com/in/eastonmeth/)
-- X (formerly Twitter) - [eastonmeth)](https://x.com/eastonmeth)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eastonmeth/)
+- [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/eastonmeth)
 
 ---
 

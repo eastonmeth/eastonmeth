@@ -56,3 +56,9 @@ Some of my hobbies/interests outside of coding include:
 
 ![Easton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eastonmeth&show_icons=true&theme=great-gatsby)
 ![Easton's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eastonmeth&show_icons=true&theme=great-gatsby)
+
+#
+
+### **Contributions 🐍**
+
+![Snake animation](https://raw.githubusercontent.com/eastonmeth/eastonmeth/output/github-contribution-grid-snake-dark.svg)

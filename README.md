@@ -4,17 +4,17 @@
 
 ### **A Wee Bit About Myself 🙋🏻‍♂️**
 
-I am an 19 year old junior web developer 👨‍💻
+I am a 19 year old junior web developer 👨‍💻
 
 I am currently working for Givelify as a full stack software engineering intern 💼
 
 Some of my hobbies/interests outside of coding include:
 
-- Working out 💪
-- Listening to music 🎶
-- Making/playing music 🎹
+- Rock climbing 🧗‍♂️
+- Hip-hop/rap music 🎶
 - Going to concerts 🎤
 - Dogs 🐶
+- Brewing 🍺
 
 #
 

@@ -2,7 +2,7 @@
 
 **`Junior Web Developer`**
 
-### **A Wee Bit About Myself 🙋🏻‍♂️**
+### **A Bit About Myself 🙋🏻‍♂️**
 
 I am a 20 year old web developer 👨‍💻
 
@@ -11,8 +11,8 @@ I am currently working for Givelify as a full stack software engineering intern 
 Some of my hobbies/interests outside of coding include:
 
 - Rock climbing 🧗‍♂️
-- Hip-hop/rap music 🎶
-- Going to concerts 🎤
+- Hip-hop/EDM music production 🎹
+- Going to concerts/festivals 🎤
 - Dogs 🐶
 - Brewing 🍺
 
@@ -28,6 +28,7 @@ Some of my hobbies/interests outside of coding include:
 ![ReactJS](https://img.shields.io/badge/reactjs-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Langfuse](https://img.shields.io/badge/langfuse-FFFFFF?style=for-the-badge&logo=langflow&logoColor=ff0000)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
@@ -49,7 +50,7 @@ Some of my hobbies/interests outside of coding include:
 
 ### **Social Links 🔗**
 
-- [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eastonmeth/)
+- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eastonmeth/)
 - [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/eastonmeth)
 
 #

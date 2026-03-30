@@ -6,7 +6,7 @@
 
 I am a 20 year old web developer 👨‍💻
 
-I am currently working for Maple (getmaple.ca) as a software engineer 💼
+I am currently working for Maple ([getmaple.ca](https://getmaple.ca)) as a software engineer 💼
 
 Some of my hobbies/interests outside of coding include:
 

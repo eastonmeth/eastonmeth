@@ -1,6 +1,6 @@
 # 💥 Easton Meth 💥
 
-**`Junior Web Developer`**
+**`Junior Software Engineer`**
 
 ### **A Bit About Myself 🙋🏻‍♂️**
 
